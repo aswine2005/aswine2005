@@ -312,20 +312,19 @@ const aswin = {
 <td align="center"><b>100+</b></td>
 <td align="center"><b>1100+</b> ⭐</td>
 <td align="center">
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<a href="https://www.codechef.com/users/aswin072005">
 <img src="https://img.shields.io/badge/-Visit-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://www.skillrack.com/images/logo.png" width="30"/>
 <br/><b>SkillRack</b>
 </td>
 <td align="center"><b>300+</b></td>
 <td align="center"><b>Active</b> 🔥</td>
 <td align="center">
-<a href="#">
+<a href="https://www.skillrack.com/faces/resume.xhtml?id=484022&key=4ec520addc37cd4509b59adb0f95c5424178416b">
 <img src="https://img.shields.io/badge/-Visit-FF6B6B?style=for-the-badge"/>
 </a>
 </td>
