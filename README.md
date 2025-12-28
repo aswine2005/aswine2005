@@ -16,7 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/aswinelaiya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aswinelaiya/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswine2005)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinelaiya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aswinelaiya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinelaiya@gmail.com)
+
 
 <br/>
 
