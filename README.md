@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE3F7&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;300%2B+LeetCode+Problems+Solved;3x+National+Hackathon+Winner;Full+Stack+%2B+AI+%2B+DevOps;Open+to+SDE+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE3F7&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;700%2B+LeetCode+Problems+Solved;3x+National+Hackathon+Winner;Full+Stack+%2B+AI+%2B+DevOps;Open+to+SDE+Opportunities" />
 </p>
 
 
@@ -42,7 +42,7 @@
 const aswin = {
     education: "B.E. Computer & Communication Engineering",
     college: "Sri Eshwar College of Engineering",
-    cgpa: 7.321,
+    cgpa: 7.7,
     
     roles: [
         "Junior Agentic AI Developer @ Fintech Insights",
@@ -50,9 +50,11 @@ const aswin = {
     ],
     
     achievements: [
+        "AWS CERTIFIED CLOUD PRACTITIONER"
+        "MICROSOFT CERTIFIED AZURE AI PRACTITIONER"
         "🏆 3× National Hackathon Winner",
         "🥇 1st Prize - Prompt Engineering",
-        "📊 300+ LeetCode Problems (Rating: 1600+)",
+        "📊 700+ LeetCode Problems (Rating: 1600+)",
         "🎯 Yukti Pre-Final Stage Qualifier"
     ],
     
