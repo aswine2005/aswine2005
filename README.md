@@ -1,6 +1,6 @@
 <!-- Capsule header (animated wave) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Aswin%20E&fontColor=ffffff&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20DevOps%20%26%20Cloud%20%7C%20Agentic%20AI&descSize=20&descAlignY=60" alt="Aswin E header" />
+  <img src="https://raw.githubusercontent.com/aswine2005/aswine2005/main/assets/header.svg" width="100%" alt="Aswin E header" />
 </div>
 
 <!-- Typing animation -->
@@ -76,15 +76,9 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/aswine2005/nexops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswine2005&repo=nexops&theme=tokyonight&hide_border=true" alt="NexOps" />
-  </a>
-  <a href="https://github.com/aswine2005/Insight_Flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswine2005&repo=Insight_Flow&theme=tokyonight&hide_border=true" alt="Insight Flow" />
-  </a>
-  <a href="https://github.com/aswine2005/RetailGuard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswine2005&repo=RetailGuard&theme=tokyonight&hide_border=true" alt="RetailEye" />
-  </a>
+  <a href="https://github.com/aswine2005/nexops"><img src="https://img.shields.io/badge/NexOps-View%20Repo-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="NexOps" /></a>
+  <a href="https://github.com/aswine2005/Insight_Flow"><img src="https://img.shields.io/badge/Insight%20Flow-View%20Repo-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Insight Flow" /></a>
+  <a href="https://github.com/aswine2005/RetailGuard"><img src="https://img.shields.io/badge/RetailEye-View%20Repo-E36209?style=for-the-badge&logo=github&logoColor=white" alt="RetailEye" /></a>
 </div>
 
 | Project | What it does | Built with |
@@ -106,16 +100,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aswine2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswine2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=aswine2005&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswine2005&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <a href="https://github.com/aswine2005?tab=followers"><img src="https://img.shields.io/github/followers/aswine2005?style=for-the-badge&logo=github&label=Followers&color=0A66C2" alt="Followers" /></a>
+  <a href="https://github.com/aswine2005/nexops/commits"><img src="https://img.shields.io/github/last-commit/aswine2005/nexops?style=for-the-badge&logo=github&label=NexOps%20last%20commit&color=2EA043" alt="Last commit" /></a>
 </div>
 
 ### 🐍 Contribution Snake
@@ -131,10 +121,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswine2005&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</div>
 
 - 🥇 **Top 10**, AMD Slingshot 2026
 - 🎖️ **Best Self Learner Award**, Annual Awards 2025, Sri Eshwar College of Engineering
@@ -175,4 +161,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1500&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%99%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80;Let's+build+something+reliable+together" alt="Footer typing" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/aswine2005/aswine2005/main/assets/footer.svg" width="100%" alt="footer" />
