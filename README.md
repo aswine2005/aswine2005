@@ -125,3 +125,5 @@ B.E. Computer and Communication Engineering · 2023–2027 · CGPA 7.7/10
 ---
 
 <p align="center"><sub>BUILD · OBSERVE · DEBUG · SHIP</sub></p>
+
+<img src="https://raw.githubusercontent.com/aswine2005/aswine2005/main/assets/developer-console.gif" alt="Monochrome liquid-glass developer console with an animated typewriter, cloud operations flow, and cat typing on a keyboard" width="100%" />
