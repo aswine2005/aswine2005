@@ -1,153 +1,89 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/engineer-header.svg" alt="Aswin E — Software Engineer focused on backend systems, applied AI, and cloud reliability" width="100%" />
+</p>
 
-<!-- Animated hero: gradient wave + typewriter -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:10152B,48:463582,100:12C9B2&text=ASWIN%20E&fontColor=F7FAFF&fontSize=72&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20APPLIED%20AI&descAlignY=59&descSize=16&animation=twinkling" width="100%" alt="Animated violet and teal wave banner introducing Aswin E" />
+<p align="center">
+  <a href="https://github.com/aswine2005">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/aswinelaiya">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/aswinelaiya/">LeetCode</a> ·
+  <a href="mailto:aswinelaiya@gmail.com">Email</a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=850&color=49E3CE&center=true&vCenter=true&width=820&height=58&lines=Building+AI+systems+for+real+workflows;Telemetry+%E2%86%92+AI+diagnosis+%E2%86%92+guarded+recovery;Cloud-native+platforms+%7C+agentic+AI+%7C+computer+vision;800%2B+DSA+problems+solved;Open+to+Software+Engineering%2C+DevOps+%26+AI+roles" alt="Animated typewriter showing Aswin's engineering focus" />
+## Profile
 
-<br/>
+Software engineer working across backend development, applied AI, and cloud systems. Interested in observability, reliable delivery, and building services that turn operational or business data into useful actions.
 
-<a href="https://aswins.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/aswinelaiya"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:aswinelaiya@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/aswine2005"><img src="https://img.shields.io/badge/GitHub-aswine2005-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+## Projects
 
-<br/><br/>
+### [NexOps](https://github.com/aswine2005/nexops)
 
-<img src="https://komarev.com/ghpvc/?username=aswine2005&style=flat-square&color=12C9B2&label=PROFILE+VIEWS" alt="Profile views" />
+AI-assisted deployment incident diagnosis and guarded recovery.
 
-</div>
+```text
+CI/CD release
+  -> Prometheus metrics + Loki logs + Jaeger traces
+  -> LLM-assisted incident diagnosis
+  -> policy-gated rollback / scale / feature-flag action
+  -> telemetry-based recovery verification
+```
 
----
+- Test results: 86–92% diagnosis confidence; test incidents handled in about 105 seconds without manual steps.
+- Stack: `FastAPI` `React` `Kubernetes` `Argo Rollouts` `AWS` `Terraform`
 
-## ✦ What I build
+### [Insight Flow](https://github.com/aswine2005/Insight_Flow)
 
-I’m a software engineer working across **AI, backend systems, and cloud-native delivery**. I like taking a problem from data and service design through deployment, observability, and a usable interface. My recent work spans agentic AI and computer vision for client workflows, plus three self-built platforms.
+Natural-language data analysis for CSV files, implemented as six FastAPI services.
 
-**Currently exploring:** AI-assisted operations, reliable deployment workflows, and practical cloud architecture.  
-**Open to:** Software engineering, DevOps / cloud, and AI engineering opportunities.
+```text
+CSV -> intent routing -> Pandas / DuckDB analysis -> anomaly detection / forecasting -> response
+```
 
----
+- Includes OAuth, JWT, input validation, rate limiting, and sandboxed model-generated Python.
+- Stack: `React` `FastAPI` `Pandas` `DuckDB` `Prophet` `LLMs` `AWS S3`
 
-## 🚀 Featured projects
+### RetailEye · [Repository](https://github.com/aswine2005/RetailGuard)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Retail analytics for sales, demand forecasting, inventory, computer vision, and threat detection.
 
-### ⚙️ NexOps
-**AI-driven deployment reliability platform** · [Repository](https://github.com/aswine2005/nexops)
+```text
+Sales history + external signals -> LSTM forecast -> inventory planning
+Video -> YOLO / OpenCV -> people tracking + dwell-time analysis
+```
 
-Connects CI/CD releases to **Prometheus metrics, Loki logs, and Jaeger traces**. An LLM helps detect post-release failures and identify likely root causes; policy-gated actions can roll back, scale, or disable a feature flag, then verify recovery.
+- Research paper accepted at ICRCET 2026 (IFERP, Paper 20607); patent application filed.
+- Stack: `React` `Node.js` `MongoDB` `TensorFlow.js` `YOLO` `OpenCV` `Gemini`
 
-In testing, diagnosis confidence was **86–92%**. Test incidents were resolved in **about 105 seconds without manual steps**.
+## Experience
 
-`FastAPI` `React` `Kubernetes` `Argo Rollouts` `AWS` `Terraform` `GitHub Actions`
+**Junior Agentic AI Developer Intern · Fintech Insights** · Jun–Sep 2025
 
-</td>
-<td width="50%" valign="top">
+- Built a three-stage Python and OpenCV pipeline for jewellery image analysis using masking, contour filtering, and feature-based object matching.
+- Evaluated ORB, SIFT, and CLIP for visual similarity and object comparison.
+- Integrated model outputs with an AWS agent workflow using financial APIs to generate market insights.
 
-### 📊 Insight Flow
-**AI data analyst platform** · [Repository](https://github.com/aswine2005/Insight_Flow)
+## Technical skills
 
-Upload a CSV and ask questions in plain language. Six FastAPI services handle intent detection, agent tools, Pandas analysis, DuckDB SQL, anomaly detection, and forecasting. Includes Google OAuth, JWT authorization, input validation, rate limiting, and sandboxed model-generated Python.
+- **Languages:** Python, Java, C++, JavaScript, SQL, Shell
+- **Backend:** FastAPI, Node.js, Express, REST APIs, OAuth 2.0, JWT
+- **AI and data:** LangChain, LLMs, Gemini, Hugging Face, OpenCV, YOLO, TensorFlow.js, LSTM, Prophet
+- **Cloud and delivery:** AWS, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Linux, GitHub Actions
+- **Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB, DuckDB
 
-`React` `FastAPI` `Pandas` `DuckDB` `LLMs` `AWS S3` `DynamoDB` `Prophet` `Plotly`
+## Certifications
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+- AWS Certified Cloud Practitioner · 2026
+- Microsoft Certified: Azure AI Fundamentals (AI-901) · 2026
 
-### 🛍️ RetailEye
-**AI retail intelligence platform** · [Repository](https://github.com/aswine2005/RetailGuard)
+## Recognition
 
-Combines sales analytics, demand forecasting, inventory optimization, computer vision, and threat detection. LSTM forecasts use sales history and external signals; a YOLO / OpenCV pipeline detects and tracks people for dwell-time analysis. **Research paper accepted (ICRCET 2026, IFERP · Paper ID 20607); patent application filed.**
+- Top 10, AMD AI Innovation Summit 2026
+- Best Self Learner Award, Sri Eshwar College of Engineering Annual Awards 2025
+- Winner, VIHANZA 2K25 Prompt Engineering
+- 2nd place, National Level Project Competition K25
+- 3rd place, SATHAKATHON'25 and Sri Eshwar Project Expo
+- Pre-finalist, Yukti (PSG College of Technology)
+- 800+ DSA problems solved: LeetCode 400+ (1600+ rating), CodeChef 100+ (1200+ rating), SkillRack 300+
 
-`React` `Node.js` `MongoDB` `TensorFlow.js` `Python` `YOLO` `OpenCV` `Gemini` `Hugging Face`
+## Education
 
-</td>
-</tr>
-</table>
-
----
-
-## 🧭 Experience
-
-### Junior Agentic AI Developer Intern · Fintech Insights
-*Jun–Sep 2025 · Remote*
-
-- Built a three-stage Python / OpenCV computer-vision pipeline for jewellery image analysis, including image masking, contour filtering, and feature-based object matching.
-- Evaluated ORB, SIFT, and CLIP approaches for visual similarity search and object comparison.
-- Integrated model outputs into a team-built AWS agent pipeline that generated market insights from financial APIs.
-
----
-
-## 🏅 Recognition
-
-- **800+ DSA problems solved** — LeetCode 400+ (1600+ rating), CodeChef 100+ (1200+ rating), SkillRack 300+.
-- **Top 10** — AMD AI Innovation Summit 2026, AMD India national AI innovation challenge.
-- **Best Self Learner Award** — Annual Awards 2025, Sri Eshwar College of Engineering.
-- **Winner, Prompt Engineering** — VIHANZA 2K25.
-- **2nd Place** — National Level Project Competition K25.
-- **3rd Place** — SATHAKATHON’25; **3rd Place** — Project Expo, Sri Eshwar College of Engineering.
-- **Pre-finalist** — Yukti, PSG College of Technology.
-
----
-
-## 🎓 Certifications
-
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" /></a>
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals"><img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals_(AI--901)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified Azure AI Fundamentals AI-901" /></a>
-
-<details>
-<summary><b>More learning and credentials</b></summary>
-<br/>
-
-- Linux Essentials — Cisco (2026)
-- AWS Cloud Virtual Experience — Forage (2025)
-- Cloud Computing — NPTEL (2025)
-- Java Programming — NPTEL (2024)
-- Data Structures & Algorithms in C and C++ — Udemy (2024)
-- DevOps coursework — AWS, Forage, Coursera, and Udemy (2026)
-
-</details>
-
----
-
-## 🧰 Toolkit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,aws,docker,kubernetes,terraform,jenkins,linux,mongodb,mysql,postgres,git,githubactions&perline=9" alt="Languages, frameworks, cloud, DevOps, and database tools" />
-
-**AI / data:** LangChain · LLMs · Gemini · Hugging Face · OpenCV · YOLO · TensorFlow.js · LSTM · Prophet  
-**Backend:** FastAPI · Node.js · Express · REST APIs · JWT · OAuth 2.0  
-**Cloud / delivery:** AWS · Docker · Kubernetes · Terraform · Jenkins · CI/CD · Linux · GitHub Actions
-
-</div>
-
----
-
-## 📡 GitHub telemetry
-
-<div align="center">
-
-<a href="https://github.com/aswine2005"><img height="165" src="https://github-readme-stats.vercel.app/api?username=aswine2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=49E3CE&icon_color=9B7CFF&text_color=E6EDF3&rank_icon=github" alt="GitHub contribution summary" /></a>
-<a href="https://github.com/aswine2005"><img height="165" src="https://streak-stats.demolab.com?user=aswine2005&theme=transparent&hide_border=true&ring=9B7CFF&fire=49E3CE&currStreakLabel=49E3CE&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub contribution streak" /></a>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aswine2005&bg_color=0D1117&color=E6EDF3&line=49E3CE&point=9B7CFF&area=true&area_color=493684&hide_border=true&custom_title=Contribution%20constellation" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let’s build something useful.
-
-[Portfolio](https://aswins.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/aswinelaiya) · [Email](mailto:aswinelaiya@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:10152B,48:463582,100:12C9B2&animation=twinkling" width="100%" alt="Animated violet and teal footer wave" />
-
-</div>
+**Sri Eshwar College of Engineering** · B.E. Computer and Communication Engineering · 2023–2027 · CGPA 7.7/10
