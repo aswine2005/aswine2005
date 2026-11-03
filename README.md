@@ -31,7 +31,7 @@
 - **Research paper accepted** at ICRCET 2026 (IFERP) and **patent application filed** for RetailEye
 - **Top 10**, AMD Slingshot 2026 (AMD India's national AI innovation challenge)
 - Currently deepening **Kubernetes, Terraform and observability**
-- Open to **Software Engineer, DevOps and Cloud** roles
+- Open to **SDE, Cloud/DevOps and AI Related Roles** roles
 
 </td>
 <td width="40%" align="center">
