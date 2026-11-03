@@ -19,20 +19,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 👨‍💻 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave" />
+## About Me
 
 <table>
 <tr>
 <td width="60%">
 
-- 🎓 Final-year **B.E. Computer and Communication Engineering** student at **Sri Eshwar College of Engineering**, Coimbatore
-- 💼 Former **AI Developer Intern** at **Fintech Insights**, working on computer vision and automated news collection for a bank-focused client
-- ☁️ **AWS Certified Cloud Practitioner** and **Microsoft Certified in Azure AI Fundamentals**
-- 🔭 Building **NexOps**, an AI-driven platform that checks whether production stays healthy after every release
-- 📄 **Research paper accepted** at ICRCET 2026 (IFERP) and **patent application filed** for RetailEye
-- 🏆 **Top 10**, AMD Slingshot 2026 (AMD India's national AI innovation challenge)
-- 🌱 Currently deepening **Kubernetes, Terraform and observability**
-- 📫 Open to **Software Engineer, DevOps and Cloud** roles
+- Final-year **B.E. Computer and Communication Engineering** student at **Sri Eshwar College of Engineering**, Coimbatore
+- Former **AI Developer Intern** at **Fintech Insights**, working on computer vision and automated news collection for a bank-focused client
+- **AWS Certified Cloud Practitioner** and **Microsoft Certified in Azure AI Fundamentals**
+- **Research paper accepted** at ICRCET 2026 (IFERP) and **patent application filed** for RetailEye
+- **Top 10**, AMD Slingshot 2026 (AMD India's national AI innovation challenge)
+- Currently deepening **Kubernetes, Terraform and observability**
+- Open to **Software Engineer, DevOps and Cloud** roles
 
 </td>
 <td width="40%" align="center">
@@ -97,25 +96,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 📈 GitHub Stats
+## 📜 Certifications
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aswine2005&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/aswine2005?tab=followers"><img src="https://img.shields.io/github/followers/aswine2005?style=for-the-badge&logo=github&label=Followers&color=0A66C2" alt="Followers" /></a>
-  <a href="https://github.com/aswine2005/nexops/commits"><img src="https://img.shields.io/github/last-commit/aswine2005/nexops?style=for-the-badge&logo=github&label=NexOps%20last%20commit&color=2EA043" alt="Last commit" /></a>
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aswine2005/aswine2005/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aswine2005/aswine2005/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/aswine2005/aswine2005/output/github-snake.svg" />
-</picture>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Cisco-Linux%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Cambridge-Linguaskill-A6192E?style=for-the-badge" alt="Linguaskill" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
@@ -140,14 +127,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 📜 Certifications
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Cisco-Linux%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Cambridge-Linguaskill-A6192E?style=for-the-badge" alt="Linguaskill" />
+  <img src="https://streak-stats.demolab.com/?user=aswine2005&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/aswine2005?tab=followers"><img src="https://img.shields.io/github/followers/aswine2005?style=for-the-badge&logo=github&label=Followers&color=0A66C2" alt="Followers" /></a>
+  <a href="https://github.com/aswine2005/nexops/commits"><img src="https://img.shields.io/github/last-commit/aswine2005/nexops?style=for-the-badge&logo=github&label=NexOps%20last%20commit&color=2EA043" alt="Last commit" /></a>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aswine2005/aswine2005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aswine2005/aswine2005/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/aswine2005/aswine2005/output/github-snake.svg" />
+</picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🤝 Let's Connect
 
