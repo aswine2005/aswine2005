@@ -127,17 +127,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aswine2005&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/aswine2005?tab=followers"><img src="https://img.shields.io/github/followers/aswine2005?style=for-the-badge&logo=github&label=Followers&color=0A66C2" alt="Followers" /></a>
-  <a href="https://github.com/aswine2005/nexops/commits"><img src="https://img.shields.io/github/last-commit/aswine2005/nexops?style=for-the-badge&logo=github&label=NexOps%20last%20commit&color=2EA043" alt="Last commit" /></a>
-</div>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
